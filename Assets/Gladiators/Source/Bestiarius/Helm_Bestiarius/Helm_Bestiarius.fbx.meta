@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 1c1e079defeb55040b4bf53879397372
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Head
+    100004: Head_End
+    100006: HelmBestiary_fur
+    100008: Hips
+    100010: L_Arm
+    100012: L_Foot
+    100014: L_ForeArm
+    100016: L_Hand
+    100018: L_HandIndex1
+    100020: L_HandIndex2
+    100022: L_HandIndex3
+    100024: L_HandIndex_End
+    100026: L_HandMiddle1
+    100028: L_HandMiddle2
+    100030: L_HandMiddle3
+    100032: L_HandMiddle_End
+    100034: L_HandPinky1
+    100036: L_HandPinky2
+    100038: L_HandPinky3
+    100040: L_HandPinky_End
+    100042: L_HandRing1
+    100044: L_HandRing2
+    100046: L_HandRing3
+    100048: L_HandRing_End
+    100050: L_HandThumb1
+    100052: L_HandThumb2
+    100054: L_HandThumb3
+    100056: L_HandThumb_End
+    100058: L_Leg
+    100060: L_Shoulder
+    100062: L_Toes
+    100064: L_Toes_End
+    100066: L_UpLeg
+    100068: Neck
+    100070: PC_HelmBestiary
+    100072: R_Arm
+    100074: R_Foot
+    100076: R_ForeArm
+    100078: R_Hand
+    100080: R_HandIndex1
+    100082: R_HandIndex2
+    100084: R_HandIndex3
+    100086: R_HandIndex_End
+    100088: R_HandMiddle1
+    100090: R_HandMiddle2
+    100092: R_HandMiddle3
+    100094: R_HandMiddle_End
+    100096: R_HandPinky1
+    100098: R_HandPinky2
+    100100: R_HandPinky3
+    100102: R_HandPinky_End
+    100104: R_HandRing1
+    100106: R_HandRing2
+    100108: R_HandRing3
+    100110: R_HandRing_End
+    100112: R_HandThumb1
+    100114: R_HandThumb2
+    100116: R_HandThumb3
+    100118: R_HandThumb_End
+    100120: R_Leg
+    100122: R_Shoulder
+    100124: R_Toes
+    100126: R_Toes_End
+    100128: R_UpLeg
+    100130: Reference
+    100132: //RootNode
+    100134: Spine
+    400000: Chest
+    400002: Head
+    400004: Head_End
+    400006: HelmBestiary_fur
+    400008: Hips
+    400010: L_Arm
+    400012: L_Foot
+    400014: L_ForeArm
+    400016: L_Hand
+    400018: L_HandIndex1
+    400020: L_HandIndex2
+    400022: L_HandIndex3
+    400024: L_HandIndex_End
+    400026: L_HandMiddle1
+    400028: L_HandMiddle2
+    400030: L_HandMiddle3
+    400032: L_HandMiddle_End
+    400034: L_HandPinky1
+    400036: L_HandPinky2
+    400038: L_HandPinky3
+    400040: L_HandPinky_End
+    400042: L_HandRing1
+    400044: L_HandRing2
+    400046: L_HandRing3
+    400048: L_HandRing_End
+    400050: L_HandThumb1
+    400052: L_HandThumb2
+    400054: L_HandThumb3
+    400056: L_HandThumb_End
+    400058: L_Leg
+    400060: L_Shoulder
+    400062: L_Toes
+    400064: L_Toes_End
+    400066: L_UpLeg
+    400068: Neck
+    400070: PC_HelmBestiary
+    400072: R_Arm
+    400074: R_Foot
+    400076: R_ForeArm
+    400078: R_Hand
+    400080: R_HandIndex1
+    400082: R_HandIndex2
+    400084: R_HandIndex3
+    400086: R_HandIndex_End
+    400088: R_HandMiddle1
+    400090: R_HandMiddle2
+    400092: R_HandMiddle3
+    400094: R_HandMiddle_End
+    400096: R_HandPinky1
+    400098: R_HandPinky2
+    400100: R_HandPinky3
+    400102: R_HandPinky_End
+    400104: R_HandRing1
+    400106: R_HandRing2
+    400108: R_HandRing3
+    400110: R_HandRing_End
+    400112: R_HandThumb1
+    400114: R_HandThumb2
+    400116: R_HandThumb3
+    400118: R_HandThumb_End
+    400120: R_Leg
+    400122: R_Shoulder
+    400124: R_Toes
+    400126: R_Toes_End
+    400128: R_UpLeg
+    400130: Reference
+    400132: //RootNode
+    400134: Spine
+    2100000: lambert1
+    4300000: PC_HelmBestiary
+    4300002: HelmBestiary_fur
+    9500000: //RootNode
+    13700000: HelmBestiary_fur
+    13700002: PC_HelmBestiary
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 726428c56305ef443bcb449e02d48954, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 323a8d3b0a1795343ad338bac6c90352
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Head
+    100004: Hips
+    100006: L_Arm
+    100008: L_Foot
+    100010: L_ForeArm
+    100012: L_Hand
+    100014: L_HandIndex1
+    100016: L_HandIndex2
+    100018: L_HandIndex3
+    100020: L_HandMiddle1
+    100022: L_HandMiddle2
+    100024: L_HandMiddle3
+    100026: L_HandPinky1
+    100028: L_HandPinky2
+    100030: L_HandPinky3
+    100032: L_HandRing1
+    100034: L_HandRing2
+    100036: L_HandRing3
+    100038: L_HandThumb1
+    100040: L_HandThumb2
+    100042: L_HandThumb3
+    100044: L_Leg
+    100046: L_Shoulder
+    100048: L_Toes
+    100050: L_UpLeg
+    100052: Neck
+    100054: PC_Belt_WideLeatherSheath_262
+    100056: R_Arm
+    100058: R_Foot
+    100060: R_ForeArm
+    100062: R_Hand
+    100064: R_HandIndex1
+    100066: R_HandIndex2
+    100068: R_HandIndex3
+    100070: R_HandMiddle1
+    100072: R_HandMiddle2
+    100074: R_HandMiddle3
+    100076: R_HandPinky1
+    100078: R_HandPinky2
+    100080: R_HandPinky3
+    100082: R_HandRing1
+    100084: R_HandRing2
+    100086: R_HandRing3
+    100088: R_HandThumb1
+    100090: R_HandThumb2
+    100092: R_HandThumb3
+    100094: R_Leg
+    100096: R_Shoulder
+    100098: R_Toes
+    100100: R_UpLeg
+    100102: Reference
+    100104: ShieldPlace
+    100106: //RootNode
+    100108: Spine
+    100110: WeapPlace
+    400000: Chest
+    400002: Head
+    400004: Hips
+    400006: L_Arm
+    400008: L_Foot
+    400010: L_ForeArm
+    400012: L_Hand
+    400014: L_HandIndex1
+    400016: L_HandIndex2
+    400018: L_HandIndex3
+    400020: L_HandMiddle1
+    400022: L_HandMiddle2
+    400024: L_HandMiddle3
+    400026: L_HandPinky1
+    400028: L_HandPinky2
+    400030: L_HandPinky3
+    400032: L_HandRing1
+    400034: L_HandRing2
+    400036: L_HandRing3
+    400038: L_HandThumb1
+    400040: L_HandThumb2
+    400042: L_HandThumb3
+    400044: L_Leg
+    400046: L_Shoulder
+    400048: L_Toes
+    400050: L_UpLeg
+    400052: Neck
+    400054: PC_Belt_WideLeatherSheath_262
+    400056: R_Arm
+    400058: R_Foot
+    400060: R_ForeArm
+    400062: R_Hand
+    400064: R_HandIndex1
+    400066: R_HandIndex2
+    400068: R_HandIndex3
+    400070: R_HandMiddle1
+    400072: R_HandMiddle2
+    400074: R_HandMiddle3
+    400076: R_HandPinky1
+    400078: R_HandPinky2
+    400080: R_HandPinky3
+    400082: R_HandRing1
+    400084: R_HandRing2
+    400086: R_HandRing3
+    400088: R_HandThumb1
+    400090: R_HandThumb2
+    400092: R_HandThumb3
+    400094: R_Leg
+    400096: R_Shoulder
+    400098: R_Toes
+    400100: R_UpLeg
+    400102: Reference
+    400104: ShieldPlace
+    400106: //RootNode
+    400108: Spine
+    400110: WeapPlace
+    2100000: PC_Belt_WideLeatherSheath_262
+    4300000: PC_Belt_WideLeatherSheath_262
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PC_Belt_WideLeatherSheath_262
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PC_Belt_WideLeatherSheath_262
+    second: {fileID: 2100000, guid: 42183ed1d2e21ea499a57a077a4df061, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
